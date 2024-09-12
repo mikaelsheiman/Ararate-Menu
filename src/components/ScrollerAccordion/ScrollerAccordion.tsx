@@ -31,7 +31,7 @@ function ScrollerAccordion(props: any) {
         <Accordion className='scroller-accordion' defaultActiveKey="">
             <Accordion.Item className='scroller-accordion-item text-subtitle' eventKey="0">
                 <Accordion.Header className='scroller-accordion-header'>{props.title}</Accordion.Header>
-                <Accordion.Body className='scroller-accordion-body'>
+                <Accordion.Body className={'scroller-accordion-body ' + props.color_scheme}>
                     {
                         create_cards(props, props.color_scheme)
                     }

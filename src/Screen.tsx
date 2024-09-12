@@ -67,7 +67,7 @@ function Screen() {
               </Tabs>
             </div>
             <ScrollButton></ScrollButton>
-            <Footer></Footer>
+            {/* <Footer></Footer> */}
           </>
         }
       </>

@@ -1,0 +1,94 @@
+@import styles/Variables
+@import styles/Fonts
+
+.label-text
+    font-size: 40px
+    color: #8F7641
+    font-family: "Respublicana"
+
+.title-text
+    font-size: 24px
+    color: $text-alter
+    font-family: "El Messiri"
+
+.subtitle-text
+    font-size: 20px
+    color: $text-black
+    font-family: "El Messiri"
+
+.description-text
+    font-size: 16px
+    color: $text-grey
+    font-family: "El Messiri"
+
+
+.screen
+    color: black
+    background-color: $background
+    width: 100vw
+    height: 100vh
+    display: flex
+    flex-direction: column
+    align-items: center
+
+// #root
+// //   max-width: 1280px
+//   margin: 0 auto
+//   padding: 2rem
+//   text-align: center
+
+.nav-tabs
+    position: fixed
+    top: 0px
+    padding-top: 10px
+    padding-right: 8px
+    gap: 8px
+    width: 100vw
+    // background-color: white
+    z-index: 1000
+    border-bottom: solid 5px $background !important
+    align-items: baseline
+
+.menu-activated
+    background-color: $main-light
+.bar-activated
+    background-color: $bar-main-dark
+
+
+.tab-content
+    margin-top: 60px
+    background-color: $background
+
+#header-tab-contact
+    color: white !important
+    // background-image: url(./assets/vector/Ararate-logo-white.svg)
+    // background-size: contain
+    // background-repeat: no-repeat
+    // background-position: center
+
+#header-tab-menu
+    color: white
+    background-color: $main-dark
+    font-family: Respublicana
+    font-size: 30px
+    border: 0
+#header-tab-menu.active
+    background-color: $background
+    color: $text-black
+    border: 0
+
+#header-tab-bar
+    color: white
+    background-color: #9C423C
+    font-family: Respublicana
+    font-size: 30px
+    border: 0
+#header-tab-bar.active
+    background-color: $background
+    color: $text-black
+    border: 0
+
+#header-tab-contact
+    color: $text-black
+    font-family: Respublicana
+    font-size: 30px

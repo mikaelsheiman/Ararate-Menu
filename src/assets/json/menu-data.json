@@ -1,0 +1,692 @@
+{
+    "list": [
+       {
+          "type": "label",
+          "title": "BAKERY"
+       },
+       {
+          "type": "accordion",
+          "title": "Bakery",
+          "cards": [
+             {
+                "img": "couvert.jpg",
+                "title": "SMALL STARTER",
+                "subtitle": "COUVERT",
+                "description": "Three diﬀerent sauces or paté with crispy lavash",
+                "expanded_description": "",
+                "price": "4,50"
+             },
+             {
+                "img": "pastel_ervas.jpg",
+                "title": "JINGUYALOV KHATZ",
+                "subtitle": "PASTRY WITH HERBS",
+                "description": "TFlat bread, similar to lavash, stuﬀed with 10 to 12 types of herbs",
+                "expanded_description": "Flat bread with a ﬁlling of more varied herbs, ﬁnely chopped, is a dish traditional Armenians from Nagorno Karabakh. This Armenian bread can take to twenty varieties of cultivated or wild herbs. You can play with the herbs bouquet that you will use to your taste by combining ﬂavors and aromas in a way that suits you best. It is convenient, as there is no strict combination. However, it is important to follow some rules: the base must be made with vegetables that do not have a very pronounced ﬂavor, such as lettuce, spinach, salt pan (a triplex), beetroot leaves, shepherd’s bag, violet ﬂowers, and other vegetables. You have to add a few vegetables with a speciﬁc ﬂavor, such as chervil, nettles, chives; some with a sour taste, such as sour or ﬂavored spicy like saxifrage pepper and a bit of bitter taste vegetables, such as dandelion",
+                "price": "12,50"
+             },
+             {
+                "img": "khachapuri_ barco.jpg",
+                "title": "KHACHAPURI BARCO",
+                "subtitle": "PASTRY WITH CHEESE AND EGG",
+                "description": "Traditional Caucasian pastry (Adjara region, Georgia) stuﬀed with cheese, egg yolk and butter",
+                "expanded_description": "Traditional Caucasian (Adjara region, Georgia) pastry in the shape of a boat, ﬁlled with cheese, in the center of which, at the end of preparation, are added egg yolk and butter. In the literal translation «khachapuri» means «bread and cheese». This pastry is to eat by hand. Take the edges of the «boat» and start by breaking it into pieces. Dip every bit into the cheese and egg ﬁlling",
+                "price": "12"
+             },
+             {
+                "img": "khachapuri.jpg",
+                "title": "KHACHAPURI",
+                "subtitle": "PASTRY WITH CHEESE",
+                "description": "Georgian pastry stuﬀed with cheese",
+                "expanded_description": "",
+                "price": "4,50"
+             },
+             {
+                "img": "pastel_feijao.jpg",
+                "title": "RED BEANS PASTRY",
+                "subtitle": "",
+                "description": "Traditional pastry with red beans and aromatic herbs from Armenia",
+                "expanded_description": "",
+                "price": "11,50"
+             },
+             {
+                "img": "lavash.jpg",
+                "title": "LAVASH",
+                "subtitle": "ARMENIAN BREAD",
+                "description": "Foliage bread is the typical bread of Armenia",
+                "expanded_description": "Lavash is made with wheat ﬂour and without yeast, which allows obtaining a very thin bread like tortilla, only much bigger. The lavash leaves stay dry in a short time and can be stored for several months. To consume them, just sprinkle with water, wrap in a cloth and, in half an hour, the lavash is ready to be used. It can be heated to accompany a meal, or stuﬀed with a variety of vegetables, cheese or something else you desire",
+                "price": "3,50"
+             },
+             {
+                "img": "",
+                "title": "BREAD BASKET",
+                "subtitle": "",
+                "description": "",
+                "expanded_description": "",
+                "price": "3,50"
+             },
+             {
+                "img": "",
+                "title": "CRISPY LAVASH",
+                "subtitle": "",
+                "description": "",
+                "expanded_description": "",
+                "price": "2"
+             }
+          ]
+       },
+       {
+          "type": "label",
+          "title": "APPETIZERS"
+       },
+       {
+          "type": "accordion",
+          "title": "SOUPS AND SALADS",
+          "cards": [
+             {
+                "img": "spass.jpg",
+                "title": "SPASS",
+                "subtitle": "YOGURT SOUP",
+                "description": "Homemade yogurt soup with matzun (fermented dairy product), dzavar (a variety of mountain wheat) and butter.It can be served cold or hot",
+                "expanded_description": "Spas or tanapoor (from Armenian tan – diluted matzun, apur – soup) is a dish of Armenian gastronomy. It is a tangy, creamy soup, which base is a fermented dairy product. The ﬁrst ingredient in the soup is cereal. Traditionally it is a porridge made from a whole wheat variety called dzavar. This cereal has been known in Armenia since ancient times, it is mountain wheat, which presents itself in a very ﬁne grain which is pre- cooked, lightly dried, peeled and then dried completely. In some recipes dzavar is substituted for rice. The second ingredient in the soup is matzun, diluted to the desired consistency. And ﬁnally, the third component – chicken eggs. When the soup is done, fried onions can be added (traditionally we add coriander and mint). In summer the soup is consumed cold, in winter - warm. It can be served at the beginning or at the end of the meal",
+                "price": "6,50"
+             },
+             {
+                "img": "sopa_abobora.jpg",
+                "title": "PUMPKIN SOUP",
+                "subtitle": "",
+                "description": "Pumpkin soup with honey, oil, garlic, sunflower seeds, and mint",
+                "expanded_description": "",
+                "price": "5"
+             },
+             {
+                "img": "sopa_feijao.jpg",
+                "title": "RED BEANS SOUP",
+                "subtitle": "",
+                "description": "Red beans soup with garlic and herbs (coriander, parsley, basil)",
+                "expanded_description": "",
+                "price": "5,50"
+             },
+             {
+                "img": "sopa_grao.jpg",
+                "title": "CHICKPEA PUREED SOUP",
+                "subtitle": "",
+                "description": "Creamy chickpea soup with wild mushrooms",
+                "expanded_description": "",
+                "price": "6,50"
+             },
+             {
+                "img": "sopa_cogumelos.jpg",
+                "title": "MUSHROOMS SOUP",
+                "subtitle": "",
+                "description": "Creamy mushroom soup with cream",
+                "expanded_description": "",
+                "price": "6,50"
+             },
+             {
+                "img": "salada_frango.jpg",
+                "title": "CHICKEN HEARTS SALAD",
+                "subtitle": "",
+                "description": "Tomatoes, red onion, pomegranate, coriander with a slice of chilli and fried chicken hearts",
+                "expanded_description": "",
+                "price": "9"
+             },
+             {
+                "img": "choban.jpg",
+                "title": "CHOBAN",
+                "subtitle": "COLD SALAD",
+                "description": "Tomatoes, cucumbers, peppers, and onion salad with aromatic herbs and sunflower oil",
+                "expanded_description": "A Choban (shepherd) spends the most of his days, taking care of his ﬂock in the mountains, sleeps upright and eats simple and healthy food",
+                "price": "9,50"
+             },
+             {
+                "img": "aveluk.jpg",
+                "title": "AVELUK",
+                "subtitle": "WILD SORREL SALAD",
+                "description": "Aveluk (wild sorrel) salad with onion, spices, pomegranates and walnuts",
+                "expanded_description": "Aveluk or Wild Sorrel is a common plant, but it is in Armenia where Aveluk is actively harvested, processed and used as an ingredient in traditional cuisine. This plant grows in the mountainous regions of Armenia and has a sour, slightly bitter ﬂavor. Aveluk is typically harvested during the spring months and then dried. Fresh leaves are quite bitter, so no one eats them raw. However, during drying fermentation occurs, which pleasantly changes the ﬂavor. Aveluk braids are traditionally woven by Armenian women and can be very long, up to four times the height of the woman preparing them. Aﬅer braiding, the strands are hung in a shaded and windy place until they dry. Dried Aveluk can be stored for a long time and used in dishes all year round. The preparation recipes vary: salads, savory snacks and soups, pastries and hot dishes. Praised for its exquisite taste and remarkable medical beneﬁts, Aveluk is very popular in Armenia",
+                "price": "6,50"
+             },
+             {
+                "img": "salada_betteraba.jpg",
+                "title": "BEETROOT AND CHEESE SALAD",
+                "subtitle": "",
+                "description": "Wood-oven smoked beet, lettuce, homemade cheese and herbs",
+                "expanded_description": "",
+                "price": "12"
+             },
+             {
+                "img": "tabule.jpg",
+                "title": "TABULÉ",
+                "subtitle": "BULGUR SALAD",
+                "description": "Bulgur salad with chopped tomatoes and parsley, served in lettuce leaves",
+                "expanded_description": "It is a very popular salad in the Caucasus and in the Middle East. Tabulé is ground wheat (bulgur) with fresh tomatoes and aromatic herbs (parsley, chives), served on lettuce leaves",
+                "price": "8"
+             }
+          ]
+       },
+       {
+          "type": "accordion",
+          "title": "COLD STARTERS AND TAPAS",
+          "cards": [
+             {
+                "img": "caviar.jpg",
+                "title": "EGGPLANT CAVIAR",
+                "subtitle": "",
+                "description": "Eggplants and peppers grilled on charcoal, crushed and mixed with spices",
+                "expanded_description": "",
+                "price": "8"
+             },
+             {
+                "img": "queijo.jpg",
+                "title": "CHEESE AND HERBS",
+                "subtitle": "",
+                "description": "",
+                "expanded_description": "",
+                "price": "7,50"
+             },
+             {
+                "img": "salmao.jpg",
+                "title": "MARINATED SALMON",
+                "subtitle": "",
+                "description": "Salmon marinated in salt with butter",
+                "expanded_description": "",
+                "price": "8,90"
+             },
+             {
+                "img": "esturjao.jpg",
+                "title": "SMOKED STURGEON",
+                "subtitle": "",
+                "description": "Slices of smoked and matured sturgeon in our oven",
+                "expanded_description": "",
+                "price": "13"
+             },
+             {
+                "img": "satsivi.jpg",
+                "title": "SATSIVI",
+                "subtitle": "TURKEY IN WALNUT SAUCE",
+                "description": "Turkey pieces prepared at low temperature in a walnut sauce with garlic. Cold starter",
+                "expanded_description": "Pieces of turkey in a walnut sauce with garlic and Caucasus spices are cooked at a low temperature. There are dozens of sauces used to make this dish. Here we use the most traditional one",
+                "price": "9,50"
+             },
+             {
+                "img": "enchidos.jpg",
+                "title": "TRADITIONAL SAUSAGE BOARD",
+                "subtitle": "",
+                "description": "Duck breast chips, veal tongue, and basturma",
+                "expanded_description": "Basturma and sujuk are traditional meat sausages that are customary to start with an Armenian meal. What is the diﬀerence between them? Sujuk is a type of hard dry sausage made from minced meat and shortening with the addition of spices. It is famous for its sharp ﬂavor and special aroma of spices. asturma is an air-dried beef wrapped in spices. It’s kind of a ham, but made with sirloin. Like ham, basturma meat is not subjected to heat treatment and preserves all vitamins and minerals which disappear during usual cooking. When served, the spice layer is not scraped, the meat itself is cut into very thin slices, with no thickness greater than 2 mm",
+                "price": "16,50"
+             },
+             {
+                "img": "rolos_beringela.jpg",
+                "title": "EGGPLANT ROLLS",
+                "subtitle": "",
+                "description": "Tender strips of roasted eggplant filled with creamy cheese and rolled into finger-sized pieces. The filling is a tasty mixture of drained yogurt cheese, crushed walnuts, garlic and coriander",
+                "expanded_description": "",
+                "price": "5,90"
+             },
+             {
+                "img": "mini_legumes.jpg",
+                "title": "MINI VEGETABLES",
+                "subtitle": "",
+                "description": "Charcoal grilled peppers, eggplant and carrot with mushrooms",
+                "expanded_description": "",
+                "price": "6,50"
+             },
+             {
+                "img": "pate_grao.jpg",
+                "title": "CHICKPEAS PATÉ",
+                "subtitle": "",
+                "description": "Pureed chickpeas with sun-dried tomatoes and oil",
+                "expanded_description": "",
+                "price": "6,50"
+             },
+             {
+                "img": "tnakan_ttu.jpg",
+                "title": "TNAKAN TTU",
+                "subtitle": "",
+                "description": "Homemade mixed pickles. Typical armenian dish. White cove, cove flower, carrot, beetroot, marinated cucumber (may vary)",
+                "expanded_description": "",
+                "price": "6"
+             }
+          ]
+       },
+       {
+          "type": "accordion",
+          "title": "Hot starters and tapas",
+          "cards": [
+             {
+                "img": "camarao_adjika.jpg",
+                "title": "PRAWNS IN ADJIKA",
+                "subtitle": "",
+                "description": "Tiger prawns in Adjika sauce (tomato, red peppers, chilli and spices)",
+                "expanded_description": "",
+                "price": "16"
+             },
+             {
+                "img": "kharissa.jpg",
+                "title": "KHARISSÁ",
+                "subtitle": "DZAVAR PORRIDGE WITH CHICKEN MEAT",
+                "description": "Very special, powerful and historic Armenian dish. Dzavar (dried crushed wheat) porridge with chicken",
+                "expanded_description": "Kharissá is a porridge made from dried or fried and crushed husked wheat (Dzavar) and fatty meat, usually chicken or lamb, which is stirred and cooked overheat for several hours, giving it a unique “creamy” texture. The meat remains almost invisible on the plate, as it dissolves during the long hours of cooking. The Armenian word “kharissa” comes from “to stir” [harir sa]. Kharissa is traditionally served on Easter Day and is considered the national dish of Armenia. Armenian Christian legends date the origin of kharissa to the times of Grigor Lusavorich (Saint Gregory the Illuminator), who converted King Trdat III to Christianity in the early 4th century. Legend has it that Grigor ordered the lamb to be cooked in large pots as a sacriﬁce to be distributed to the poor. When it became obvious that there were too many people for there to be enough meat to go around, he ordered wheat to be added to the meat and mixed",
+                "price": "8,90"
+             },
+             {
+                "img": "dolma.jpg",
+                "title": "DOLMÁ",
+                "subtitle": "VEAL ROLLS WITH GRAPEVINE LEAVES",
+                "description": "Minced veal with rice, onions, vegetables and spices, wrapped in grapevine leaves with matsun sauce and garlic",
+                "expanded_description": "Dolma is one of Armenia’s greatest gastronomic symbols. A traditional dish that dates back to antiquity and are ﬁlled with chopped veal or lamb with rice. Wrapped in grapevine leaves are served with matsun and garlic, but even without anything, it’s delicious due a unique ﬂavor of grapevine leaves. Their acidity gives the meat plenty of tenderness and provides an unforgettable ﬂavor. Vine leaves are strong, which allows them to withstand high temperatures without breaking up during cooking. Here you can taste the best veal dolmá, prepared with love from the best ingredients",
+                "price": "20 | half 12"
+             },
+             {
+                "img": "chackapuli.jpg",
+                "title": "CHACAPULI",
+                "subtitle": "LAMB WITH HERBS",
+                "description": "Pieces of lamb prepared at a low temperature with white wine, herbs and garlic",
+                "expanded_description": "Chackapuli – pieces of lamb stewed in aromatic herbs from the mountains. It is a true symbol of spring for Caucasians. People start preparing it as soon as fresh aromatic herbs appear in meadows and green plum trees (tkemali) pop up in orchards. Tkemali is an essential ingredient for this divine dish. This traditional Easter food is cooked on ﬁre in a large pot to win that special taste. A true hymn to spring!",
+                "price": "11,50"
+             },
+             {
+                "img": "hamest_taty.jpg",
+                "title": "HAMEST TATÝ",
+                "subtitle": "GRILLED VEGETABLE SALAD",
+                "description": "Charcoal grilled vegetables (eggplants, tomatoes, green peppers), later passed/sautéed in ghee butter with onions and sprinkled with coriander, can be served hot or cold",
+                "expanded_description": "",
+                "price": "10,50"
+             },
+             {
+                "img": "pate_veado.jpg",
+                "title": "CHICKPEAS PÂTÉ WITH GRILLED VENISON",
+                "subtitle": "",
+                "description": "Pieces of grilled deer with pureed chickpeas, sun-dried tomatoes and spiced oil",
+                "expanded_description": "",
+                "price": "13,50"
+             },
+             {
+                "img": "pate_camarao.jpg",
+                "title": "CHICKPEAS PÂTÉ WITH GRILLED SHRIMPS",
+                "subtitle": "",
+                "description": "Grilled shrimps with pureed chickpeas, sun-dried tomatoes and spiced oil",
+                "expanded_description": "",
+                "price": "17"
+             },
+             {
+                "img": "tjvjik.jpg",
+                "title": "TJVJIK",
+                "subtitle": "LAMB OFFAL",
+                "description": "Lamb liver, heart, lungs stewed with onions and tomatoes",
+                "expanded_description": "In Armenian the word «tjvjik» means «liver». Tjvjik is made of lamb giblets or calf: liver, lungs, heart, and kidneys with a generous amount of onions and tomatoes. In the classic version tjvjik is cooked the same way it was made by ancient Armenians in the mountain villages. At that time, while men prepared the meat for winter aﬅer slotting, women made a delicious tjvjik for everyone to enjoy all animal parts, similar to the ‘sarrabulho’ made in Portugal. By-products are thoroughly washed, then fried in animals’ fat with a large amount of onions and tomatoes. In a festive version of the dish, they also add plum sorrel that gives the dish an extraordinary taste",
+                "price": "9,70"
+             },
+             {
+                "img": "khinkali.jpg",
+                "title": "KHINKALI",
+                "subtitle": "STUFFED DOUGH BAGS",
+                "description": "Artistically hand molded dough «bags», filled with succulent minced meat and a rich aromatic broth. *minimum order - 3 units",
+                "expanded_description": "Khinkali is a legendary dish well-recognized and is famous in the entire territory of the Caucasus, from Pshavi mountains. It’s a hand-molded dough «bag», full of juicy minced meat. One thing which distinguishes khinkali from other stuﬀed pasta is a profound existence of a rich aromatic broth inside. The most important step in preparing khinkali is molding it in the way that is traditionally done with a «save» on top. Khinkali is eaten by hand, crack the dough very carefully so that the broth doesn’t pour out. The broth should be drunk aﬅerwards, leaving only the ‘save’. It is not eaten, as a rule",
+                "price": "2,75 - unit"
+             }
+          ]
+       },
+       {
+          "type": "label",
+          "title": "STEWED|BAKED|FRIED"
+       },
+       {
+          "type": "accordion",
+          "title": "Meat",
+          "cards": [
+             {
+                "img": "KHASLAMA.jpg",
+                "title": "KHASLAMA",
+                "subtitle": "VEAL STEW",
+                "description": "Veal (calf) meat stewed in its own juices with potatoes, peppers, tomatoes, onions, parsley, and coriander",
+                "expanded_description": "Khashlama, one of the oldest traditional Armenian dishes, was used to cure colds and general malaise.\nThere is no consensus among Armenian women on a proper khashlama recipe. In any corner of the country (or even in any house) there are its tweaks and preparation secrets of this dish. In addition to the fact that several sources indicate types of diﬀerent types of meat base: lamb, beef or even of chicken.\nWhat does not vary is the way to prepare: pieces of meat and vegetables are layered in a thick-bottomed pan and then bake (or stew, there is no agreement either) in its own juices. As a result, we have a very tender meat impregnated with vegetable juices and fresh herbs and spices",
+                "price": "19,50"
+             },
+             {
+                "img": "putukh.jpg",
+                "title": "PUTUKH",
+                "subtitle": "CHICKPEAS STEW",
+                "description": "Lamb stew with chickpeas, potatoes, onions and tomatoes served in a clay pot, covered with a bread crust",
+                "expanded_description": "It’s a soup that occupies a special place in Armenian cuisine. It’s only prepared on big occasions for a large group of family and friends.\nPutuk is made of lamb loin, chickpeas, bulgur, and succulent vegetables. All of this is served in a small pot covered with ﬂat bread",
+                "price": "21 | half 12"
+             },
+             {
+                "img": "Borrego_farro.jpg",
+                "title": "LAMB WITH EMMER WHEAT",
+                "subtitle": "",
+                "description": "Carefully selected lamb rump, marinated with spices and herbs for 24 - 36 hours and then cooked at low temperature for 2 hours (sous vide technology). Served with Achar (Emmer wheat or hulled wheat) and mushrooms",
+                "expanded_description": "This dish became known thanks to the ancient armenian tradition during the preparation of lavash (Armenian bread) for the winter, when all the villagers gathered to celebrate. While the tonir was still hot, they hung a whole pre- marinated lamb carcass in the tonir and leﬅ it there overnight",
+                "price": "49,5 | half 22,5"
+             },
+             {
+                "img": "khurdjin.jpg",
+                "title": "KHURDJIN lamb",
+                "subtitle": "LAMB WITH VEGETABLES IN LAVASH",
+                "description": "Oven roasted lamb in a bundle of lavash with vegetables stewed in beer",
+                "expanded_description": "The name of this dish comes from the Armenian word «khurdjin», which means «muggle». In the past, Armenians used muggles to get fruits, vegetables, bread and other products. In our lavash bundle you’ll ﬁnd roasted lamb, peppers, tomatoes, onions and, of course, coriander",
+                "price": "22"
+             },
+             {
+                "img": "khurdjin.jpg",
+                "title": "KHURDJIN veal",
+                "subtitle": "VEAL WITH VEGETABLES IN LAVASH",
+                "description": "Oven roasted veal in a bundle of lavash with vegetables stewed in beer",
+                "expanded_description": "The name of this dish comes from the Armenian word «khurdjin», which means «muggle». In the past, Armenians used muggles to get fruits, vegetables, bread and other products. In our lavash bundle you’ll ﬁnd roasted lamb, peppers, tomatoes, onions and, of course, coriander",
+                "price": "21"
+             },
+             {
+                "img": "veado.jpg",
+                "title": "VENISON STEAK",
+                "subtitle": "",
+                "description": "Venison loin with fennel, leek straw and creamy horseradish",
+                "expanded_description": "",
+                "price": "22,50"
+             }
+          ]
+       },
+       {
+          "type": "accordion",
+          "title": "Fish",
+          "cards": [
+             {
+                "img": "kchuch.jpg",
+                "title": "KCHUCH",
+                "subtitle": "FISH STEW",
+                "description": "Rich fish soup with peppers, potatoes, and carrots, served in a clay pot",
+                "expanded_description": "FISH kchuch might be one of the oldest dishes in the Armenia. The recipe was practically unchanged during the last centuries: gleaming vegetables grew in the hot sun of the Caucasus, succulent ﬁsh from the rivers of Sevan and Arax and, of course, the earthenware, that is, kchuch, which gives the name of this delicious dish based on its components",
+                "price": "21"
+             },
+             {
+                "img": "robalo.jpg",
+                "title": "SEABASS",
+                "subtitle": "",
+                "description": "Boneless seabass fillet with purple mashed potatoes and carrots, with ginger, tomato and parsley sauce",
+                "expanded_description": "",
+                "price": "17"
+             },
+             {
+                "img": "vieiras.jpg",
+                "title": "SCALLOPS AND SHRIMPS",
+                "subtitle": "",
+                "description": "A light snack consisting of scallops on the shell and grilled shrimps",
+                "expanded_description": "",
+                "price": "18,50"
+             },
+             {
+                "img": "frutos_mar.jpg",
+                "title": "SEAFOOD PLATTER",
+                "subtitle": "",
+                "description": "Seafood set for 3-4 people: seabass, shrimp, scallops, shrimp kebab with tarragon",
+                "expanded_description": "Today’s Armenia is a small state in the middle of the Caucasus Mountains. But there were times, at the beginning of the New Age, when there was the so-called Greate Armenia. It was a huge state between the Caspian Sea and the Mediterranean Sea that included, in addition to the «little Armenia», modern territories of Iraq, Turkey, Syria, and Lebanon. Until nowadays, the diasporas of Syria and Lebanon, proudly record their history that had beginning in your ancestors who lived in Greater Armenia.\nLater, when it collapsed as a result of aggressive neighbors’ military actions, around the current border of Syria and Turkey – there was Cilicia Armenia – another coastal state. Even in the United States of America, where the diaspora even surpasses the number of residents of Armenia, Armenians prefer to live in coastal sites, particularly in California, Massachusetts and New York.\nSo, even though meat dishes are the calling card, but we are unable not to pay special attention to ﬁsh and seafood dishes. Besides that our «Ararate» is located in the wonderful city of Lisbon, impossible to imagine without the Atlantic Ocean rich oﬀerings.",
+                "price": "66"
+             }
+          ]
+       },
+       {
+          "type": "label",
+          "title": "CARCOAL GRILLED"
+       },
+       {
+          "type": "accordion",
+          "title": "skewers",
+          "cards": [
+             {
+                "img": "set_espetadas1.jpg",
+                "title": "SET OF 4 SKEWERS I",
+                "subtitle": "VEAL, PORK, CHICKEN MINCED LULYÁ, LAMB MINCED LULYÁ",
+                "description": "The 2 skewers and 2 minced meat kebabs with potatoes and salad",
+                "expanded_description": "One of the central places of Armenian gastronomy is occupied by meat and place central among the meats belongs to the khorovats, also known as shaslik. It is with great respect that we treat the old traditions and try to keep the same technology in preparation that was used ﬁﬅeen hundred years ago.It is roasted over an open ﬁre. In Armenia we can ﬁnd more than twenty varieties of this dish, each of which has a special marinade. During preparation the meat is impregnated with wood aromas, acquiring a wonderful taste and smell",
+                "price": "69"
+             },
+             {
+                "img": "set_espetadas2.jpg",
+                "title": "SET OF 4 SKEWERS II",
+                "subtitle": "VEAL, LAMB, LAMB CHOPS, MUSHROOMS",
+                "description": "The 3 meat skewers and 1 mushtrooms skewers with potatoes and salad",
+                "expanded_description": "One of the central places of Armenian gastronomy is occupied by meat and place central among the meats belongs to the khorovats, also known as shaslik. It is with great respect that we treat the old traditions and try to keep the same technology in preparation that was used ﬁﬅeen hundred years ago.It is roasted over an open ﬁre. In Armenia we can ﬁnd more than twenty varieties of this dish, each of which has a special marinade. During preparation the meat is impregnated with wood aromas, acquiring a wonderful taste and smell",
+                "price": "72"
+             },
+             {
+                "img": "Esp_carne.jpg",
+                "title": "KHOROVATS VEAL",
+                "subtitle": "",
+                "description": "Veal Skewers served with cold salad or potatoes",
+                "expanded_description": "",
+                "price": "19,50"
+             },
+             {
+                "img": "",
+                "title": "KHOROVATS LAMB",
+                "subtitle": "",
+                "description": "Skewers served with cold salad or potatoes",
+                "expanded_description": "",
+                "price": "21"
+             },
+             {
+                "img": "",
+                "title": "KHOROVATS LAMB CHOPS",
+                "subtitle": "",
+                "description": "Skewers served with cold salad or potatoes",
+                "expanded_description": "",
+                "price": "26"
+             },
+             {
+                "img": "",
+                "title": "KHOROVATS PORK",
+                "subtitle": "",
+                "description": "Skewers served with cold salad or potatoes",
+                "expanded_description": "",
+                "price": "17"
+             },
+             {
+                "img": "Esp_salmao.jpg",
+                "title": "KHOROVATS SALMON",
+                "subtitle": "",
+                "description": "Fish Skewers served with cold salad or potatoes",
+                "expanded_description": "",
+                "price": "17"
+             },
+             {
+                "img": "",
+                "title": "KHOROVATS STURGEON",
+                "subtitle": "",
+                "description": "Fish Skewers served with cold salad or potatoes",
+                "expanded_description": "",
+                "price": "24"
+             },
+             {
+                "img": "cogumelos.jpg",
+                "title": "MUSHROOMS SKEWERS",
+                "subtitle": "",
+                "description": "",
+                "expanded_description": "",
+                "price": "8"
+             },
+             {
+                "img": "LEGUMES.jpg",
+                "title": "GRILLED VEGETABLES",
+                "subtitle": "TOMATOES, EGGPLANTS, PEPPERS",
+                "description": "",
+                "expanded_description": "",
+                "price": "11"
+             }
+          ]
+       },
+       {
+          "type": "accordion",
+          "title": "Lulya-kebabs",
+          "cards": [
+             {
+                "img": "kebab.jpg",
+                "title": "LULYÁ-KHABAB MINCED LAMB",
+                "subtitle": "",
+                "description": "Minced lamb kebab served with cold salad or potatoes",
+                "expanded_description": "Kebab (or Lulyá-khabab) is a common name for very typical grilled meat dishes of the Middle East and Central Asia. The word «kebab» in Persian means «grilled meat». Therefore, it can be considered as the oldest dish in the world.\nLulyá-kebab is basically minced meat kebab with added onions, roasted in coal. Another peculiarity is in kneading the meat for a long period, to give the latter a special shape so that it doesn’t fall apart and remain ﬁrm on the skewer. According to the traditions the cooked dish is sprinkled with aromatic herbs",
+                "price": "17"
+             },
+             {
+                "img": "",
+                "title": "LULYÁ-KHABAB MINCED CHICKEN",
+                "subtitle": "",
+                "description": "Minced chicken kebab served with cold salad or potatoes",
+                "expanded_description": "Kebab (or Lulyá-khabab) is a common name for very typical grilled meat dishes of the Middle East and Central Asia. The word «kebab» in Persian means «grilled meat». Therefore, it can be considered as the oldest dish in the world.\nLulyá-kebab is basically minced meat kebab with added onions, roasted in coal. Another peculiarity is in kneading the meat for a long period, to give the latter a special shape so that it doesn’t fall apart and remain ﬁrm on the skewer. According to the traditions the cooked dish is sprinkled with aromatic herbs",
+                "price": "16"
+             },
+             {
+                "img": "Kebab_camarao.jpg",
+                "title": "LULYÁ-KHABAB MINCED SHRIMP",
+                "subtitle": "",
+                "description": "",
+                "expanded_description": "Minced chrimp kebab served with tapioca and beethroot",
+                "price": "17,5"
+             }
+          ]
+       },
+       {
+          "type": "accordion",
+          "title": "Additional sides",
+          "cards": [
+             {
+                "img": "",
+                "title": "COLD SALAD",
+                "subtitle": "",
+                "description": "",
+                "expanded_description": "",
+                "price": "5"
+             },
+             {
+                "img": "",
+                "title": "BAKED POTATOES",
+                "subtitle": "",
+                "description": "",
+                "expanded_description": "",
+                "price": "5"
+             },
+             {
+                "img": "",
+                "title": "SAUCE IUGURT OR TOMATOES",
+                "subtitle": "",
+                "description": "",
+                "expanded_description": "",
+                "price": "1,50"
+             },
+             {
+                "img": "",
+                "title": "SAUCE TKEMALI",
+                "subtitle": "",
+                "description": "",
+                "expanded_description": "",
+                "price": "2,50"
+             },
+             {
+                "img": "",
+                "title": "SAUCE ADJIKA",
+                "subtitle": "150 G",
+                "description": "",
+                "expanded_description": "",
+                "price": "5"
+             }
+          ]
+       },
+       {
+          "type": "label",
+          "title": "DESERTS"
+       },
+       {
+          "type": "accordion",
+          "title": "",
+          "cards": [
+             {
+                "img": "ECLER.jpg",
+                "title": "ECLER",
+                "subtitle": "",
+                "description": "Sugary dough balls, known as choux, ﬁlled with custard cream as our chef likes it and a lot of powdered sugar (3 pcs)",
+                "expanded_description": "This French dessert has long been “naturalized” in Armenia and is a regular dish at any celebration.Sugary dough balls, known as choux, stuﬀed with custard cream as our chef likes those (3 pcs)",
+                "price": "6"
+             },
+             {
+                "img": "GATA.jpg",
+                "title": "GATA",
+                "subtitle": "",
+                "description": "Puﬀ pastry cake ﬁlled with a mixture of sugar, butter and ﬂour",
+                "expanded_description": "Gata is a typical dessert from the Caucasus. It is similar to a cookie and is made of puﬀ pastry with sugary ﬁlling. It is served at parties. The quality of preparation demonstrates the talent of the Armenian woman.\nIn the past, during big festivities, women competed with each other in the art of preparing Gata, who occupied a prominent place at the table",
+                "price": "7"
+             },
+             {
+                "img": "Bolo_mel.jpg",
+                "title": "HONEY CAKE",
+                "subtitle": "",
+                "description": "Layered dough cake based on honey and sour cream",
+                "expanded_description": "",
+                "price": "6"
+             },
+             {
+                "img": "pakhlava.jpg",
+                "title": "PAKHLAVA",
+                "subtitle": "",
+                "description": "Pastel made with a paste of walnuts crushed with cloves and cinnamon, wrapped in ﬁlo pastry and bathed in syrup",
+                "expanded_description": "Pakhlava (or baklava, as it is better known in the world western) is a typical Eastern dessert. It has an incredibly tasty honey aroma and is made from puﬀ pastry and walnuts, watered with bee nectar.\nThe dessert was born a good few centuries in one of the states of the Middle East. History of creation of pakhlava is full of contradictory facts in which there is only one thing in common – the delicious taste of pakhlava “forced” the travelers taking the recipes.\nAnd so it is, through the «silk route» that the pakhlava arrived in Armenia, where local confectioners ended up adding ground cinnamon and cloves to the other spices)",
+                "price": "7"
+             },
+             {
+                "img": "pokhindz.jpg",
+                "title": "POKHINDZ",
+                "subtitle": "",
+                "description": "Ground and lightly toasted wheat ﬂour combined with fruit syrup. Served with homemade ice cream",
+                "expanded_description": "Pokhindz is an ancient traditional dessert of Armenian cuisine that brings back childhood memories for many Armenians.\nIn a frying pan, pokhindz – ground and lightly toasted wheat ﬂour – is combined with butter and sweetened liquid (Doshab blackberry syrup or any fruit syrup or simply honey mixed with water). Then the thick mixture is molded into any shape and consumed cold.\nOur version of this no-cook dessert is called Kolondrak (which translates to “snowball” from the Artsakh dialect) and features a smooth consistency of pokhindz and sweet syrup",
+                "price": "7,50"
+             },
+             {
+                "img": "merengue.jpg",
+                "title": "MERINGUE PIE",
+                "subtitle": "",
+                "description": "Meringue pie with cream to the Chef’s taste",
+                "expanded_description": "",
+                "price": "6"
+             },
+             {
+                "img": "pera.jpg",
+                "title": "ROASTED PEAR",
+                "subtitle": "",
+                "description": "with cinnamon and homemade praline ice cream",
+                "expanded_description": "",
+                "price": "8"
+             },
+             {
+                "img": "gelado.jpg",
+                "title": "HOMEMADE ICE CREAM",
+                "subtitle": "",
+                "description": "lemon-mint, praline and other ﬂavours",
+                "expanded_description": "",
+                "price": "3"
+             },
+             {
+                "img": "doce_casa.jpg",
+                "title": "DOCE DA CASA",
+                "subtitle": "",
+                "description": "Cream with vanilla from Madagascar, red fruits, mango and pure mango",
+                "expanded_description": "",
+                "price": "8"
+             },
+             {
+                "img": "trilogia.jpg",
+                "title": "TRILOGY OF FLAVORS",
+                "subtitle": "HONEY CAKE, PAKHLAVA AND ECLER",
+                "description": "",
+                "expanded_description": "",
+                "price": "7"
+             },
+             {
+                "img": "compota.jpg",
+                "title": "HOMEMADE JAM",
+                "subtitle": "APRICOT, WALNUTS AND WHITE CHERRY",
+                "description": "",
+                "expanded_description": "",
+                "price": "5,5"
+             }
+          ]
+       }
+    ]
+ }

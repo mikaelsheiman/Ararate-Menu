@@ -1,0 +1,20 @@
+{
+    "list": [
+        {
+            "type": "label",
+            "title": "Ну типа бар"
+        },
+        {
+            "type": "label",
+            "title":"МАМА ЛОХ"
+        },
+        {
+            "type": "card",
+            "img": "1.png",
+            "title": "Omega Vasco",
+            "subtitle": "MEGA PUPS",
+            "description": "очень толстый",
+            "price": 12
+        }
+    ]
+}

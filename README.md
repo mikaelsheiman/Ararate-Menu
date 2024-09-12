@@ -1,3 +1,8 @@
+# Ararate Menu
+
+Это репозиторий проекта электронного меню для ресторана Ararate в Лиссабоне.
+РАзработка ведется на React без бэкенда.
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.

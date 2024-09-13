@@ -1,10 +1,10 @@
 import ScrollerAccordion from '../ScrollerAccordion/ScrollerAccordion'
 import ScrollerLabel from '../ScrollerLabel/ScrollerLabel'
 import './Scroller.sass'
-import png from '../../assets/images/1.png'
-import menu_data from '../../assets/json/menu-data.json'
+// import png from '../../assets/images/1.png'
+// import menu_data from '../../assets/json/menu-data.json'
 import ScrollerCard from '../ScrollerCard/ScrollerCard'
-import { DEFAULT_IMG_PATH } from '../../constants'
+// import { DEFAULT_IMG_PATH } from '../../constants'
 
 
 function build_scroller(data: any, color_scheme: string) {

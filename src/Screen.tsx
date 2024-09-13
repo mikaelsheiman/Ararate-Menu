@@ -4,8 +4,11 @@ import Tab from 'react-bootstrap/Tab';
 import Tabs from 'react-bootstrap/Tabs';
 import menu_data from './assets/json/menu-data.json'
 import bar_data from './assets/json/bar-data.json'
-import Loader from './components/Loader/Loader'
-import useLocalStorageState from 'use-local-storage-state'
+// import Loader from './components/Loader/Loader'
+import 'bootstrap/dist/css/bootstrap.min.css';
+import Scroller from './components/Scroller/Scroller';
+import ScrollButton from './components/ScrollButton/ScrollButton';
+// import useLocalStorageState from 'use-local-storage-state'
 
 export type Dish = {
   img: string
@@ -22,26 +25,26 @@ export interface CartProps {
 }
 
 function Screen() {
-    const [isLoading, setIsLoading] = useState(false)
+    // const [isLoading, setIsLoading] = useState(false)
     const [key, setKey] = useState('menu')
-    const [dishes, setDishes] = useState<Dish[]>([])
-    const [dishes_bar, setDishesBar] = useState<Dish[]>([])
-    const [cart, setCart] = useLocalStorageState<CartProps>('cart', {})
+    // const [dishes, setDishes] = useState<Dish[]>([])
+    // const [dishes_bar, setDishesBar] = useState<Dish[]>([])
+    // const [cart, setCart] = useLocalStorageState<CartProps>('cart', {})
 
     
-    const addToCart = (dish: Dish):void => {
-      dish.quantity = 1
+    // const addToCart = (dish: Dish):void => {
+    //   dish.quantity = 1
 
-      setCart((prevCart) => ({
-        ...prevCart,
-        [dish.title]: dish,
-      }))
-    }
+    //   setCart((prevCart) => ({
+    //     ...prevCart,
+    //     [dish.title]: dish,
+    //   }))
+    // }
 
     return (
       <>
         {
-          isLoading ? <Loader /> : 
+          // isLoading ? <Loader /> : 
           <>
             <div className='screen'>
               <Tabs
@@ -73,8 +76,6 @@ function Screen() {
       </>
     )
   }
-  import 'bootstrap/dist/css/bootstrap.min.css';
-import Scroller from './components/Scroller/Scroller';
-import ScrollButton from './components/ScrollButton/ScrollButton';
-import Footer from './components/Footer/Footer';
+
+// import Footer from './components/Footer/Footer';
   export default Screen

@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import './ScrollerCard.sass'
 import { DEFAULT_IMG_PATH } from '../../constants'
-import useLocalStorageState from 'use-local-storage-state'
+// import useLocalStorageState from 'use-local-storage-state'
 
 export type Dish = {
     img: string
@@ -22,24 +22,24 @@ export interface CartProps {
 function ScrollerCard(props: any) {
     const [expanded, setExpanded] = useState(false)
     const [ordered, setOrdered] = useState(false)
-    const [cart, setCart] = useLocalStorageState<CartProps>('cart', {})
+    // const [cart, setCart] = useLocalStorageState<CartProps>('cart', {})
 
-    const addToCart = (product: Dish):void => {
-        product.quantity = 1
+    // const addToCart = (product: Dish):void => {
+    //     product.quantity = 1
     
-        setCart((prevCart) => ({
-          ...prevCart,
-          [product.title]: product,
-        }))
-      }
+    //     setCart((prevCart) => ({
+    //       ...prevCart,
+    //       [product.title]: product,
+    //     }))
+    //   }
 
-    const handleRemoveProduct = (productId: string): void => {
-    setCart((prevCart) => {
-        const updatedCart = { ...prevCart }
-        delete updatedCart[productId]
-        return updatedCart
-    })
-    }
+    // const handleRemoveProduct = (productId: string): void => {
+    // setCart((prevCart) => {
+    //     const updatedCart = { ...prevCart }
+    //     delete updatedCart[productId]
+    //     return updatedCart
+    // })
+    // }
 
     return (
         <div className='card' >
@@ -63,12 +63,12 @@ function ScrollerCard(props: any) {
                     <span className='subtitle-text'>€ {props.data.price}</span>
                     <button className={'add-btn ' + (ordered? 'check':'plus')} onClick={() => {
                         setOrdered(!ordered)
-                        if (!ordered) {
-                            addToCart(props.data)
-                        }
-                        else {
-                            handleRemoveProduct(props.data.title)
-                        }
+                        // if (!ordered) {
+                        //     addToCart(props.data)
+                        // }
+                        // else {
+                        //     handleRemoveProduct(props.data.title)
+                        // }
                     }}>
                     </button>
                 </div>

@@ -1,6 +1,6 @@
 
-import React, {useState} from 'react'; 
-import {FaArrowCircleUp} from 'react-icons/fa'; 
+import {useState} from 'react'; 
+// import {FaArrowCircleUp} from 'react-icons/fa'; 
 import './ScrollButton.sass'
   
 const ScrollButton = () =>{ 

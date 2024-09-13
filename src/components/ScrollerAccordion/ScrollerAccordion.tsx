@@ -1,8 +1,8 @@
 import { Accordion } from 'react-bootstrap'
 import './ScrollerAccordion.sass'
 import ScrollerCard from '../ScrollerCard/ScrollerCard'
-import png from '../../assets/images/1.png'
-import {DEFAULT_IMG_PATH} from '../../constants'
+// import png from '../../assets/images/1.png'
+// import {DEFAULT_IMG_PATH} from '../../constants'
 
 function create_card(data: any, key: number, color_scheme: string) {
     return (

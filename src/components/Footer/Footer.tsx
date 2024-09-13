@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import './Footer.sass'
 import useLocalStorageState from 'use-local-storage-state'
-import ScrollerCard, { CartProps } from '../ScrollerCard/ScrollerCard'
+import { CartProps } from '../ScrollerCard/ScrollerCard'
 import CartCard from '../CartCard/CartCard'
 
 
@@ -11,13 +11,13 @@ function Footer() {
 
     const getProducts = () => Object.values(cart || {})
 
-    const handleRemoveProduct = (productId: string): void => {
-        setCart((prevCart) => {
-            const updatedCart = { ...prevCart }
-            delete updatedCart[productId]
-            return updatedCart
-        })
-    }
+    // const handleRemoveProduct = (productId: string): void => {
+    //     setCart((prevCart) => {
+    //         const updatedCart = { ...prevCart }
+    //         delete updatedCart[productId]
+    //         return updatedCart
+    //     })
+    // }
 
     const handleUpdateQuantity = (productId: string, operation: string) => {
         setCart((prevCart) => {

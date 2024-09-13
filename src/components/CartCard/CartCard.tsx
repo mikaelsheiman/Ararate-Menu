@@ -1,21 +1,21 @@
-import { useState } from "react"
-import useLocalStorageState from "use-local-storage-state"
+// import { useState } from "react"
+// import useLocalStorageState from "use-local-storage-state"
 import { DEFAULT_IMG_PATH } from "../../constants"
 import './CartCard.sass'
-import { CartProps } from "../ScrollerCard/ScrollerCard"
+// import { CartProps } from "../ScrollerCard/ScrollerCard"
 
 function CartCard(props: any) {
-    const [expanded, setExpanded] = useState(false)
-    const [ordered, setOrdered] = useState(false)
-    const [cart, setCart] = useLocalStorageState<CartProps>('cart', {})
+    // const [expanded, setExpanded] = useState(false)
+    // const [ordered, setOrdered] = useState(false)
+    // const [cart, setCart] = useLocalStorageState<CartProps>('cart', {})
 
-    const handleRemoveProduct = (productId: string): void => {
-    setCart((prevCart) => {
-        const updatedCart = { ...prevCart }
-        delete updatedCart[productId]
-        return updatedCart
-    })
-    }
+    // const handleRemoveProduct = (productId: string): void => {
+    // setCart((prevCart) => {
+    //     const updatedCart = { ...prevCart }
+    //     delete updatedCart[productId]
+    //     return updatedCart
+    // })
+    // }
 
     return (
         <div className='cart-card' >
